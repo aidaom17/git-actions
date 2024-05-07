@@ -23,4 +23,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: ghcr.io/marinco/gh-actions-template:latest
+          tags: ghcr.io/aidaom17/git-actions:latest
